@@ -1,0 +1,41 @@
+#main{
+  background-color: #EEEEEE;
+}
+img{
+  height: 100%;
+  width: 100%;
+}
+
+.widgetStyle{
+  border: 1px #2A2A2D;
+  margin: 10px 10px;
+  background-color: white;
+  box-shadow: 0 0 4px -1px #39393F;
+  padding: 15px;
+
+}
+
+.widgetStyle h2{
+  text-align: center;
+}
+
+.paragraphCenter{
+  text-align: center;
+  font-size: 13px;
+}
+
+.buttonDiv{
+  text-align:center;
+}
+.buttonDiv button{
+  background: #ff1100;
+  border-radius: 5px;
+  border: none;
+  color: #F9F8F8;
+  font-weight: bolder;
+  margin: 10px 0;
+  padding: 13px;
+}
+.buttonDiv button:hover{
+  background-color: #ff6c61;
+}
