@@ -9,15 +9,18 @@ img{
 
 .widgetStyle{
   border: 1px #2A2A2D;
-  margin: 10px 10px;
+  margin: 20px 20px;
   background-color: white;
   box-shadow: 0 0 4px -1px #39393F;
-  padding: 15px;
-
+  padding: 20px;
+}
+.widgetStyle p{
+  margin: 0 30px;
 }
 
 .widgetStyle h2{
   text-align: center;
+  margin-bottom: 15px;
 }
 
 .paragraphCenter{
@@ -39,4 +42,8 @@ img{
 }
 .buttonDiv button:hover{
   background-color: #ff6c61;
+}
+
+.paddingSection{
+  padding: 20px;
 }
